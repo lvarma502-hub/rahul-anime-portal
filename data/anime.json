@@ -1,0 +1,281 @@
+[
+  {
+    "title": "Demon Slayer: Kimetsu no Yaiba",
+    "year": "2019",
+    "genre": ["Action", "Adventure", "Fantasy"],
+    "rating": "8.7",
+    "episodes": 26,
+    "image": "https://cdn.myanimelist.net/images/anime/1286/99889.jpg",
+    "description": "Tanjiro embarks on a journey to avenge his family and save his sister Nezuko who has turned into a demon."
+  },
+  {
+    "title": "Attack on Titan",
+    "year": "2013",
+    "genre": ["Action", "Drama", "Fantasy"],
+    "rating": "9.0",
+    "episodes": 87,
+    "image": "https://cdn.myanimelist.net/images/anime/10/47347.jpg",
+    "description": "Humanity fights for survival against giant humanoid Titans that threaten their existence."
+  },
+  {
+    "title": "One Piece",
+    "year": "1999",
+    "genre": ["Action", "Adventure", "Comedy"],
+    "rating": "9.0",
+    "episodes": 1094,
+    "image": "https://cdn.myanimelist.net/images/anime/6/73245.jpg",
+    "description": "Follow Monkey D. Luffy and his Straw Hat Pirates in their search for the ultimate treasure, the One Piece."
+  },
+  {
+    "title": "My Hero Academia",
+    "year": "2016",
+    "genre": ["Action", "Comedy", "School"],
+    "rating": "8.4",
+    "episodes": 138,
+    "image": "https://cdn.myanimelist.net/images/anime/10/78745.jpg",
+    "description": "In a world where superpowers are common, Izuku Midoriya dreams of becoming a hero despite being born without powers."
+  },
+  {
+    "title": "Death Note",
+    "year": "2006",
+    "genre": ["Mystery", "Psychological", "Supernatural"],
+    "rating": "9.0",
+    "episodes": 37,
+    "image": "https://cdn.myanimelist.net/images/anime/9/9453.jpg",
+    "description": "A high school student discovers a supernatural notebook that allows him to kill anyone by writing their name."
+  },
+  {
+    "title": "Fullmetal Alchemist: Brotherhood",
+    "year": "2009",
+    "genre": ["Action", "Adventure", "Drama"],
+    "rating": "9.1",
+    "episodes": 64,
+    "image": "https://cdn.myanimelist.net/images/anime/1208/94745.jpg",
+    "description": "Two brothers search for the Philosopher's Stone to restore their bodies after a failed alchemical experiment."
+  },
+  {
+    "title": "Naruto: Shippuden",
+    "year": "2007",
+    "genre": ["Action", "Adventure", "Martial Arts"],
+    "rating": "8.7",
+    "episodes": 500,
+    "image": "https://cdn.myanimelist.net/images/anime/5/17407.jpg",
+    "description": "Naruto Uzumaki continues his training to become the strongest ninja and protect his village."
+  },
+  {
+    "title": "Tokyo Ghoul",
+    "year": "2014",
+    "genre": ["Action", "Horror", "Supernatural"],
+    "rating": "7.8",
+    "episodes": 48,
+    "image": "https://cdn.myanimelist.net/images/anime/5/64449.jpg",
+    "description": "A college student becomes a half-ghoul after a transplant and must navigate the world of ghouls."
+  },
+  {
+    "title": "Sword Art Online",
+    "year": "2012",
+    "genre": ["Action", "Adventure", "Romance"],
+    "rating": "7.6",
+    "episodes": 96,
+    "image": "https://cdn.myanimelist.net/images/anime/11/39717.jpg",
+    "description": "Players trapped in a virtual reality MMORPG must fight to survive and escape the game."
+  },
+  {
+    "title": "Bleach",
+    "year": "2004",
+    "genre": ["Action", "Adventure", "Supernatural"],
+    "rating": "8.1",
+    "episodes": 366,
+    "image": "https://cdn.myanimelist.net/images/anime/3/40451.jpg",
+    "description": "Ichigo Kurosaki becomes a Soul Reaper and fights evil spirits to protect the living world."
+  },
+  {
+    "title": "Fairy Tail",
+    "year": "2009",
+    "genre": ["Action", "Adventure", "Comedy"],
+    "rating": "8.0",
+    "episodes": 328,
+    "image": "https://cdn.myanimelist.net/images/anime/5/18179.jpg",
+    "description": "A young wizard joins the Fairy Tail guild and embarks on magical adventures with his friends."
+  },
+  {
+    "title": "Hunter x Hunter",
+    "year": "2011",
+    "genre": ["Action", "Adventure", "Fantasy"],
+    "rating": "9.0",
+    "episodes": 148,
+    "image": "https://cdn.myanimelist.net/images/anime/11/33657.jpg",
+    "description": "Gon Freecss aspires to become a Hunter and find his father, facing deadly challenges along the way."
+  },
+  {
+    "title": "Dragon Ball Z",
+    "year": "1989",
+    "genre": ["Action", "Adventure", "Martial Arts"],
+    "rating": "8.7",
+    "episodes": 291,
+    "image": "https://cdn.myanimelist.net/images/anime/6/20936.jpg",
+    "description": "Goku and his friends defend Earth from powerful villains in epic martial arts battles."
+  },
+  {
+    "title": "Steins;Gate",
+    "year": "2011",
+    "genre": ["Sci-Fi", "Thriller"],
+    "rating": "9.1",
+    "episodes": 24,
+    "image": "https://cdn.myanimelist.net/images/anime/5/73199.jpg",
+    "description": "A group of friends discovers time travel and must prevent catastrophic changes to the timeline."
+  },
+  {
+    "title": "Code Geass",
+    "year": "2006",
+    "genre": ["Action", "Drama", "Mecha"],
+    "rating": "8.7",
+    "episodes": 50,
+    "image": "https://cdn.myanimelist.net/images/anime/5/50331.jpg",
+    "description": "A prince with the power to control minds leads a rebellion against an oppressive empire."
+  },
+  {
+    "title": "Neon Genesis Evangelion",
+    "year": "1995",
+    "genre": ["Action", "Drama", "Mecha"],
+    "rating": "8.5",
+    "episodes": 26,
+    "image": "https://cdn.myanimelist.net/images/anime/12/21418.jpg",
+    "description": "Teenage pilots battle mysterious beings called Angels to save humanity."
+  },
+  {
+    "title": "Psycho-Pass",
+    "year": "2012",
+    "genre": ["Action", "Sci-Fi", "Psychological"],
+    "rating": "8.4",
+    "episodes": 22,
+    "image": "https://cdn.myanimelist.net/images/anime/5/43399.jpg",
+    "description": "In a future where crimes are predicted, inspectors enforce justice in a dystopian society."
+  },
+  {
+    "title": "Ergo Proxy",
+    "year": "2006",
+    "genre": ["Mystery", "Sci-Fi", "Psychological"],
+    "rating": "8.0",
+    "episodes": 23,
+    "image": "https://cdn.myanimelist.net/images/anime/11/50457.jpg",
+    "description": "A detective investigates rogue androids in a decaying futuristic city."
+  },
+  {
+    "title": "Serial Experiments Lain",
+    "year": "1998",
+    "genre": ["Horror", "Psychological", "Sci-Fi"],
+    "rating": "8.1",
+    "episodes": 13,
+    "image": "https://cdn.myanimelist.net/images/anime/1711/104568.jpg",
+    "description": "A girl explores the Wired, a virtual reality network that blurs the line between reality and the digital world."
+  },
+  {
+    "title": "Cowboy Bebop",
+    "year": "1998",
+    "genre": ["Action", "Adventure", "Sci-Fi"],
+    "rating": "8.9",
+    "episodes": 26,
+    "image": "https://cdn.myanimelist.net/images/anime/4/19644.jpg",
+    "description": "Bounty hunters travel through space chasing criminals in a retro-futuristic setting."
+  },
+  {
+    "title": "Ghost in the Shell",
+    "year": "1995",
+    "genre": ["Action", "Sci-Fi", "Psychological"],
+    "rating": "8.3",
+    "episodes": 1,
+    "image": "https://cdn.myanimelist.net/images/anime/10/82594.jpg",
+    "description": "A cyborg agent investigates a hacker who can hack human minds in a cyberpunk world."
+  },
+  {
+    "title": "Akira",
+    "year": "1988",
+    "genre": ["Action", "Sci-Fi", "Horror"],
+    "rating": "8.1",
+    "episodes": 1,
+    "image": "https://cdn.myanimelist.net/images/anime/1337/99013.jpg",
+    "description": "In a post-apocalyptic Tokyo, a biker gang unleashes a powerful force that threatens the city."
+  },
+  {
+    "title": "Spirited Away",
+    "year": "2001",
+    "genre": ["Adventure", "Fantasy", "Supernatural"],
+    "rating": "8.9",
+    "episodes": 1,
+    "image": "https://cdn.myanimelist.net/images/anime/6/79597.jpg",
+    "description": "A young girl works in a magical bathhouse to save her parents who have been turned into pigs."
+  },
+  {
+    "title": "Your Name",
+    "year": "2016",
+    "genre": ["Romance", "Drama", "Supernatural"],
+    "rating": "8.9",
+    "episodes": 1,
+    "image": "https://cdn.myanimelist.net/images/anime/5/87048.jpg",
+    "description": "Two teenagers mysteriously swap bodies and try to uncover the mystery behind their connection."
+  },
+  {
+    "title": "Weathering with You",
+    "year": "2019",
+    "genre": ["Drama", "Fantasy", "Romance"],
+    "rating": "7.6",
+    "episodes": 1,
+    "image": "https://cdn.myanimelist.net/images/anime/1886/101222.jpg",
+    "description": "A boy and a girl with weather-manipulating abilities navigate love and personal struggles in Tokyo."
+  },
+  {
+    "title": "A Silent Voice",
+    "year": "2016",
+    "genre": ["Drama", "School", "Shounen"],
+    "rating": "8.9",
+    "episodes": 1,
+    "image": "https://cdn.myanimelist.net/images/anime/1122/96435.jpg",
+    "description": "A former bully seeks redemption by reconnecting with a girl he once tormented."
+  },
+  {
+    "title": "Violet Evergarden",
+    "year": "2018",
+    "genre": ["Drama", "Fantasy", "Slice of Life"],
+    "rating": "8.7",
+    "episodes": 13,
+    "image": "https://cdn.myanimelist.net/images/anime/1795/95088.jpg",
+    "description": "A former child soldier works as an Auto Memory Doll, writing letters to help others express their feelings."
+  },
+  {
+    "title": "Made in Abyss",
+    "year": "2017",
+    "genre": ["Adventure", "Drama", "Fantasy"],
+    "rating": "8.8",
+    "episodes": 25,
+    "image": "https://cdn.myanimelist.net/images/anime/6/86733.jpg",
+    "description": "A girl and her robot companion explore the mysterious Abyss, a giant pit filled with ancient artifacts."
+  },
+  {
+    "title": "Re:Zero - Starting Life in Another World",
+    "year": "2016",
+    "genre": ["Drama", "Fantasy", "Thriller"],
+    "rating": "8.3",
+    "episodes": 50,
+    "image": "https://cdn.myanimelist.net/images/anime/1522/128039.jpg",
+    "description": "A boy is transported to another world and must use his knowledge to survive deadly situations."
+  },
+  {
+    "title": "The Promised Neverland",
+    "year": "2019",
+    "genre": ["Mystery", "Psychological", "Shounen"],
+    "rating": "8.5",
+    "episodes": 23,
+    "image": "https://cdn.myanimelist.net/images/anime/1830/110322.jpg",
+    "description": "Orphaned children discover the dark truth about their orphanage and plan an escape."
+  },
+  {
+    "title": "Jujutsu Kaisen",
+    "year": "2020",
+    "genre": ["Action", "Drama", "Supernatural"],
+    "rating": "8.7",
+    "episodes": 24,
+    "image": "https://cdn.myanimelist.net/images/anime/1171/109222.jpg",
+    "description": "A high school student joins a secret organization to fight cursed spirits using supernatural powers."
+  }
+]
