@@ -58,6 +58,35 @@ document.addEventListener('DOMContentLoaded', function() {
         });
     }
 
+    // Load anime data
+    const animeGrid = document.getElementById('anime-grid');
+    if (animeGrid) {
+        fetch('data/anime.json')
+            .then(response => response.json())
+            .then(data => {
+                data.forEach(anime => {
+                    const animeCard = document.createElement('div');
+                    animeCard.className = 'anime-card';
+
+                    const status = parseInt(anime.year) < 2024 ? 'completed' : 'ongoing';
+                    const statusText = status === 'completed' ? 'Completed' : 'Ongoing';
+
+                    const shortSynopsis = anime.description.length > 150 ? anime.description.substring(0, 150) + '...' : anime.description;
+                    animeCard.innerHTML = `
+                        <img src="${anime.image}" alt="${anime.title} Poster">
+                        <h3>${anime.title}</h3>
+                        <p>Genre: ${anime.genre.join(', ')}</p>
+                        <p>⭐ ${anime.rating}</p>
+                        <p>${shortSynopsis}</p>
+                        <button>Watch Now</button>
+                    `;
+
+                    animeGrid.appendChild(animeCard);
+                });
+            })
+            .catch(error => console.error('Error loading anime data:', error));
+    }
+
     // Contact form handling
     const contactForm = document.getElementById('contactForm');
     const formMessage = document.getElementById('formMessage');
